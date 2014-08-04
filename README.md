@@ -10,3 +10,6 @@ Idea Adicional
 ========
 
 También se me ha ocurrido conectar la app con la página de peoplesoft de la universidad para que así el estudiante pueda ver su promedio ponderado y su promedio parcial en cada una de las materias que cursa.
+
+=
+Juan David Ospina
